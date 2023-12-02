@@ -1,4 +1,5 @@
 ### Hola a todos!! 👋
+Soy profesora desde hace 25 años.
 🌱 Estoy aprendiendo sobre analysis de datos con Python. Me encanta enseñar.
 Saludoos!!
 

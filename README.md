@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola a todos!! 👋
+🌱 Estoy aprendiendo sobre analysis de datos con Python. Me encanta enseñar.
+Saludoos!!
+
 
 <!--
 **elopezdavila/elopezdavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
